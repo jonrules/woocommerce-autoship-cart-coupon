@@ -2,7 +2,7 @@
 /*
 Plugin Name: WC Autoship Cart Coupon
 Plugin URI: http://wooautoship.com
-Description: Apply a coupon to a shopping cart containing autoship items.
+Description: Apply coupons to a shopping cart containing autoship items.
 Version: 1.0
 Author: Patterns in the Cloud
 Author URI: http://patternsinthecloud.com
